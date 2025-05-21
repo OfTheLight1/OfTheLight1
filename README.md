@@ -1,10 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Freelance.
-- 🌱 I’m currently learning React.
-- 👯 I’m looking to collaborate on projects.
-- 🤔 I’m looking for help with Next.js.
-- 💬 Ask me about muy favorite programming language.
-- 📫 How to reach me: OfTheLight1.
-- 😄 Pronouns: He.
-- ⚡ Fun fact: I paid for WinRAR.
+Design, build, evaluate and direct from different points of view and with 
+scientific-technological foundations, devices and systems that solve 
+problems in the technological world and constantly develop my skills and 
+grow professionally.
